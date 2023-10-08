@@ -532,3 +532,4 @@ ____
 == See also
 
 * REST definition by Roy Thomas Fielding: https://ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm#sec_5_2[REST Architectural Elements]
+* Safe and Idempotent Methods reference: https://www.iana.org/assignments/http-methods/http-methods.xhtml[IANA HTTP Method Registry]
