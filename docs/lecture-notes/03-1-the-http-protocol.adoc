@@ -159,7 +159,6 @@ Unlike distributed objects, the standardized request methods in HTTP are
 not resource-specific, since uniform interfaces provide for better
 visibility and reuse in network-based systems [REST].
 ____
-_REST definition by Roy Thomas Fielding:_ https://ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm#sec_5_2[REST Architectural Elements]
 
 The semantics of a method does not depend on target resource. This
 uniformity extends to other HTTP concepts, such as status codes or
@@ -529,3 +528,7 @@ here.
 For errors (4xx and 5xx), you can use this format [RFC 7807] if you
 don't want to create your own.
 ____
+
+== See also
+
+* REST definition by Roy Thomas Fielding: https://ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm#sec_5_2[REST Architectural Elements]
